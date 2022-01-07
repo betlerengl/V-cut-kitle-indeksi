@@ -1,1 +1,1 @@
-# bodymassindex
+# V-cut-kitle-indeksi
